@@ -5,6 +5,7 @@
 			<Page title="{i18n>title}">
 				<content>
 					 <Label text="ajuste 1" />
+					  <Label text="ajuste 2" />
 				</content>
 			</Page>
 		</pages>
